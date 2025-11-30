@@ -199,7 +199,7 @@ p {
 .overlay {
   position: relative;
   z-index: 2; /* puts the text above the overlay */
-  color: rgba(255, 255, 255, 0.9); /* optional: make text slightly translucent */
+  color: rgba(7, 72, 135, 1); /* optional: make text slightly translucent */
   text-align: center; /* Center the text */
   width: 100%;
   max-width: 900px;
